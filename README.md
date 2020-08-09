@@ -1,2 +1,2 @@
 # FuzzDBForXSS
-The Following repository contains html and javascript Data for Fuzzing XSS and HTML Injection.The Data has been taken from Mozzilla Developer Network.
+The Following repository contains HTML and javascript event functional data for Fuzzing XSS and HTML Injection.
